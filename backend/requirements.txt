@@ -1,0 +1,15 @@
+fastapi
+uvicorn
+langgraph
+langchain-ollama
+pydantic
+python-pptx
+playwright
+pygithub
+httpx
+pytest
+hypothesis
+python-multipart
+aiofiles
+pypdf
+python-docx
